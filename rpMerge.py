@@ -346,9 +346,6 @@ class rpMerge:
 
 
 
-    ## 
-    #
-    #
     #TODO: change this with a flag so that all the reactants and products are the same
     def containedReaction(self, species_source_target, source_reaction, target_reaction):
         """Compare individual reactions and see if the source reaction is contained within the target one
